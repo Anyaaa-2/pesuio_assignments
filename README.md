@@ -1,0 +1,2 @@
+PESU I/O - Machine Learning Assignments
+This repository contains the assignments completed as part of the PESU I/O Machine Learning program during my first year, first semester. The coursework introduced foundational concepts in machine learning, covering topics such as supervised and unsupervised learning, regression, classification, and clustering. Each assignment focuses on applying core ML algorithms and techniques using Python and popular libraries like NumPy, pandas, and scikit-learn.
